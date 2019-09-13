@@ -1,0 +1,26 @@
+word | type -- column -- row
+----------------------------
+start | s_id -- 0 -- 1
+a | s_id -- 0 -- 2
+b | s_id -- 2 -- 2
+c | s_id -- 4 -- 2
+d | s_id -- 6 -- 2
+'''
+sddfsghghjk fdsgghkhjk
+
+bjkbj
+
+''' | s_com -- 0 -- 3
+iunalkn | s_id -- 0 -- 5
+oaindl | s_id -- 8 -- 5
+#asdasfsgf sdfsdf sgsdgdf | s_singleLineComment -- 0 -- 6
+if | s_if -- 0 -- 8
+then | s_id -- 3 -- 8
+else | s_else -- 8 -- 8
+goto | s_id -- 13 -- 8
+561651.32 | s_num -- 0 -- 9
+313 | s_num -- 0 -- 10
+#include | s_singleLineComment -- 0 -- 12
+< | s_lt -- 0 -- 14
+<= | s_le -- 2 -- 14
+end | s_id -- 0 -- 15

@@ -1,0 +1,7 @@
+a d b
+
+S' -> S $
+S -> a A B
+S -> S D b
+A -> a d B
+A -> a
